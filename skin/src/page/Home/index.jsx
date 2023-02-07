@@ -1,7 +1,13 @@
+import * as C from './styles';
+import { SearchInput, Signin } from "../../components";
+
 export function Home() {
   return (
-    <main>
-      <h1>oi</h1>
-    </main>
+    <C.Container className="div-width">
+      <div>
+     
+        <Signin />
+      </div>
+    </C.Container>
   );
 }

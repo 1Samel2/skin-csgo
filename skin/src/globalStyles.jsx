@@ -6,5 +6,10 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    background: #060D25;
+}
+
+.div-width{
+    margin: 20px 0 0 8%;
 }
 `;
