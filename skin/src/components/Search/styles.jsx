@@ -9,6 +9,11 @@ align-items: center;
 border-radius: 3px;
 display: flex;
 background-color: #001334;
+
+@media only screen and (max-width: 600px) {
+    width: 160px;
+    
+}
 `;
 
 export const SearchImage = styled(SearchIcon)`
@@ -21,4 +26,9 @@ export const SearchInput = styled.input`
 border: none;
 background: none;
 color:#31405B;
+
+@media only screen and (max-width: 600px) {
+    width: 100%;
+    
+}
 `;

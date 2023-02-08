@@ -1,6 +1,6 @@
 import * as C from "./styles";
 
-export function Search() {
+export default function Search() {
   return (
     <>
       <C.ContainerSearch>

@@ -7,6 +7,7 @@ export default createGlobalStyle`
     box-sizing: border-box;
     outline: none;
     background: #060D25;
+    font-family: 'Roboto', sans-serif;
 }
 
 .div-width{
