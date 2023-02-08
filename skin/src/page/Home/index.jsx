@@ -2,6 +2,7 @@ import * as C from "./styles";
 import Search from "../../components/Search";
 import SignIn from "../../components/SignIn";
 import Carousel from "../../components/CarouselLib";
+import Grid from "../../components/CarouselPopularInCsGo"
 
 export function Home() {
   return (
@@ -11,9 +12,12 @@ export function Home() {
         <Search />
         <SignIn />
       </C.Header>
-      <div>
-        <Carousel />
-      </div>
+      <Carousel />
+      <br />
+      <C.Line />
+      <br />
+      <Grid/>
+
     </C.Container>
   );
 }
