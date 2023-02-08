@@ -11,8 +11,7 @@ display: flex;
 background-color: #001334;
 
 @media only screen and (max-width: 600px) {
-    width: 160px;
-    
+    width: 160px; 
 }
 `;
 
@@ -26,9 +25,5 @@ export const SearchInput = styled.input`
 border: none;
 background: none;
 color:#31405B;
-
-@media only screen and (max-width: 600px) {
-    width: 100%;
-    
-}
+width: 100%;
 `;
