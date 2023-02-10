@@ -9,7 +9,15 @@ export default createGlobalStyle`
     font-family: 'Roboto', sans-serif;
 }
 
-.div-width{
-    margin: 20px;
+.buttonAdd{
+  margin-top: 10px;
+  background-color: #137fe5;
+  color: white;
+  height: 40px;
+  border-radius: 5px;
+  border: 0;
 }
+
 `;
+
+

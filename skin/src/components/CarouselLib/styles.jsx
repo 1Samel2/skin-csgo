@@ -15,7 +15,6 @@ export const Container = styled.div`
       border-radius: 100%;
       width: 10px;
       height: 10px;
-
     }
 
     @media only screen and (max-width: 600px) {
@@ -23,7 +22,8 @@ export const Container = styled.div`
     }
   }
 
-  .carousel-control-next, .carousel-control-prev{
+  .carousel-control-next,
+  .carousel-control-prev {
     display: none;
   }
 

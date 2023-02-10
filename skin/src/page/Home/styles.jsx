@@ -2,25 +2,23 @@ import styled from "styled-components";
 
 export const Container = styled.main`
   padding: 20px;
-  background: #060D25;
+  background: #060d25;
+  @media only screen and (max-width: 600px) {
+    padding: 10px;
+  }
 `;
 
 export const Header = styled.div`
-  display: flex;
-  justify-content: space-around;
-
+  text-align: center;
+  
   h1 {
     color: white;
-    font-size: 2rem;
+    font-size: 5rem;
 
     @media only screen and (max-width: 600px) {
       font-size: 24px;
       padding-top: 8px;
     }
-  }
-
-  @media only screen and (max-width: 600px) {
-    margin: 12px;
   }
 `;
 

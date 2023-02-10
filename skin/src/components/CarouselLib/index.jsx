@@ -11,14 +11,16 @@ const images = [
 
 export default function CarouselLib() {
   return (
-    <C.Container>
-      <Carousel>
-        {images.map((item, index) => (
-          <Carousel.Item key={index}>
-            <img className="d-block w-100" src={item} alt="First slide" />
-          </Carousel.Item>
-        ))}
-      </Carousel>
-    </C.Container>
+    <>
+      <C.Container>
+        <Carousel>
+          {images.map((item, index) => (
+            <Carousel.Item key={index}>
+              <img className="d-block w-100" src={item} alt="First slide" />
+            </Carousel.Item>
+          ))}
+        </Carousel>
+      </C.Container>
+    </>
   );
 }
