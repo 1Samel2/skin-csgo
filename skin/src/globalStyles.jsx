@@ -13,10 +13,17 @@ export default createGlobalStyle`
   margin-top: 10px;
   background-color: #137fe5;
   color: white;
-  height: 40px;
+  text-decoration: none;
+  padding: 9px;
   border-radius: 5px;
   border: 0;
+
+  &:hover{
+    opacity: 0.6;
+    color: white;
+  }
 }
+
 
 `;
 

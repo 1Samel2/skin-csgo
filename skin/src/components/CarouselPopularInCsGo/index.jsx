@@ -39,7 +39,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -51,7 +51,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -63,7 +63,7 @@ export default function GridCategoryGames() {
             <img src={Faca} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -75,7 +75,7 @@ export default function GridCategoryGames() {
             <img src={Faca} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -87,7 +87,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
       </Swiper>
@@ -122,7 +122,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -134,7 +134,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -146,7 +146,7 @@ export default function GridCategoryGames() {
             <img src={Faca} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -158,7 +158,7 @@ export default function GridCategoryGames() {
             <img src={Faca} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
 
@@ -170,7 +170,7 @@ export default function GridCategoryGames() {
             <img src={ImageSkin} alt="" />
             <C.Price>555.54R$</C.Price>
             <span>field-tested (6.7% wear)</span>
-            <C.Button>Add to cart</C.Button>
+            <C.Button>Ver skin</C.Button>
           </C.DivContent>
         </SwiperSlide>
       </Swiper>
